@@ -30,3 +30,11 @@ for(let i=0; i<evenFruitItems.length; i++)
 
         
 }
+
+
+
+
+
+
+
+// Write answer to the questions asked below:
